@@ -2,7 +2,7 @@
 ![Nodepay.ai](image.png)
 Nodepay.ai Bot auto ping using multyple proxy
 
-Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
+Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J)
 
 # Features
 This script is intended for running on a server using multyple proxy.
@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt 
 ```
 ## 1. Obtain Required Information
 
-1. Open the link and log in to [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
+1. Open the link and log in to [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J)
 2. Press F12 to open the console and enter the code (Ctrl + Shift + i for inspection)
 3. In the console, enter ``localStorage.getItem('np_token');``
 4. The text printed in the console is your NP_TOKEN copy and paste to `np_token.txt`
